@@ -5,6 +5,7 @@ Debiantration is a linux based distro which is based on Debian 12 and contains a
 ## Installing The vdi
 
 You can donwload the .vdi file from the following link. 
+[Vdi](https://mega.nz/folder/dB4lHDRA#bHRas2GAc2Y1jmVjfxbs8A)
 
 To get started with the step you first have to download a virtualization software such as Oracle Virtualbox. Once you have downlaoded the virtualbox software click on the **New** button and allocate names and resources to your virtual machine. Once you get to the hard disk section 
 ![Hard disk section](Assets/hardDisk.png)
